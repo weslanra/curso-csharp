@@ -1,0 +1,15 @@
+C:\laragon\www\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\laragon\www\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\laragon\www\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\laragon\www\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\laragon\www\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\laragon\www\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
